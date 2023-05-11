@@ -1,0 +1,406 @@
+C:\Users\Gabrilts\source\repos\Tp1Simulacion\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.AssemblyReference.cache
+C:\Users\Gabrilts\source\repos\Tp1Simulacion\Tp1Simulacion\obj\Debug\Tp1Simulacion.frmGenerarMixto.resources
+C:\Users\Gabrilts\source\repos\Tp1Simulacion\Tp1Simulacion\obj\Debug\Tp1Simulacion.Properties.Resources.resources
+C:\Users\Gabrilts\source\repos\Tp1Simulacion\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.GenerateResource.cache
+C:\Users\Gabrilts\source\repos\Tp1Simulacion\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.CoreCompileInputs.cache
+C:\Users\Gabrilts\source\repos\Tp1Simulacion\Tp1Simulacion\bin\Debug\Tp1Simulacion.exe.config
+C:\Users\Gabrilts\source\repos\Tp1Simulacion\Tp1Simulacion\bin\Debug\Tp1Simulacion.exe
+C:\Users\Gabrilts\source\repos\Tp1Simulacion\Tp1Simulacion\bin\Debug\Tp1Simulacion.pdb
+C:\Users\Gabrilts\source\repos\Tp1Simulacion\Tp1Simulacion\obj\Debug\Tp1Simulacion.exe
+C:\Users\Gabrilts\source\repos\Tp1Simulacion\Tp1Simulacion\obj\Debug\Tp1Simulacion.pdb
+C:\Users\Gabrilts\source\repos\Tp1Simulacion\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmTablaMixto.resources
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\bin\Debug\Tp1Simulacion.exe.config
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\bin\Debug\Tp1Simulacion.exe
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\bin\Debug\Tp1Simulacion.pdb
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.AssemblyReference.cache
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\obj\Debug\Tp1Simulacion.frmGenerarMixto.resources
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmTablaMixto.resources
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\obj\Debug\Tp1Simulacion.Properties.Resources.resources
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.GenerateResource.cache
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.CoreCompileInputs.cache
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\obj\Debug\Tp1Simulacion.exe
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\obj\Debug\Tp1Simulacion.pdb
+C:\Users\GASTON\Documents\Repos\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmChiCuadrado.resources
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\Tp1Simulacion.exe.config
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\Tp1Simulacion.exe
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\Tp1Simulacion.pdb
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\EnvDTE.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.AssemblyReference.cache
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.SuggestedBindingRedirects.cache
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.frmGenerarMixto.resources
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmChiCuadrado.resources
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmTablaMixto.resources
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.Properties.Resources.resources
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.GenerateResource.cache
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.CoreCompileInputs.cache
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.CopyComplete
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.exe
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.pdb
+F:\IMPORTANTE\FAQ\4to año\SIM\Practico\TPS\TP1 NUEVO\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmGraf.resources
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Tp1Simulacion.exe.config
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Tp1Simulacion.exe
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Tp1Simulacion.pdb
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\EnvDTE.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\stdole.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.AssemblyReference.cache
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.frmGenerarMixto.resources
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmChiCuadrado.resources
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmGraf.resources
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmTablaMixto.resources
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.Properties.Resources.resources
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.GenerateResource.cache
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.CopyComplete
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.exe
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.pdb
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.Menu.resources
+C:\Users\Joaquin\Desktop\SIM-gasti\Tp1Simulacion\obj\Debug\Tp1Simulacion.Multiplicativo.FrmMultuplicativo.resources
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Tp1Simulacion.exe.config
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Tp1Simulacion.exe
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Tp1Simulacion.pdb
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\EnvDTE.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\stdole.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.AssemblyReference.cache
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.Menu.resources
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.frmGenerarMixto.resources
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmChiCuadrado.resources
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmGraf.resources
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmTablaMixto.resources
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.Multiplicativo.FrmMultuplicativo.resources
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.Properties.Resources.resources
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.GenerateResource.cache
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\RdlCompile.cache
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\RdlCompile.compiled
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.CoreCompileInputs.cache
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.exe
+C:\Users\Gabrilts\Downloads\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.pdb
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Tp1Simulacion.exe.config
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Tp1Simulacion.exe
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Tp1Simulacion.pdb
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\EnvDTE.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\stdole.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.AssemblyReference.cache
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.Menu.resources
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.frmGenerarMixto.resources
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmChiCuadrado.resources
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmGraf.resources
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.Multiplicativo.FrmMultuplicativo.resources
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.Properties.Resources.resources
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.GenerateResource.cache
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.CoreCompileInputs.cache
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.csproj.CopyComplete
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.exe
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.pdb
+C:\Users\GASTON\Desktop\SIM-gasti-Patoru\SIM-gasti-Patoru\Tp1Simulacion\obj\Debug\Tp1Simulacion.MIxto.FrmTablaRND.resources
